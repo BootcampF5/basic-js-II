@@ -85,7 +85,7 @@ const programmers = [
 
 //Ejercicio 11: Con un bucle for of imprime en consola "Hola, mi nombre es ... " y reemplaza los tres puntos con cada nombre del array dado.
 
-const names = ['Rocío', 'Lola', 'Antía', 'Laura', 'Noelia']
+const names = ['Carla', 'Alex', 'Judith', 'Maria', 'Noelia']
 
 //Escribe tu código aquí
 
